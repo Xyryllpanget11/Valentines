@@ -137,14 +137,14 @@ const questions = [
         answers: [
             {text: 'Attack on Titan', correct: false},
             {text: 'Impractical Jokers', correct: false},
-            {text: 'Breaking Bad', correct: true},
-            {text: 'The Office', correct: false}
+            {text: 'Breaking Bad', correct: false},
+            {text: 'Boko no pi-', correct: true}
         ]
     },
     {
         question: 'What is our anniversary?',
         answers: [
-            {text: 'December 19', correct: true},
+            {text: 'December 19th', correct: true},
             {text: 'September 23rd', correct: false},
             {text: 'September 11th', correct: false},
             {text: 'September 25th', correct: false}
