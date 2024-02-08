@@ -168,10 +168,4 @@ const questions = [
             {text: 'Your Nose', correct: true}
         ]
     },
-  {
-    question: 'Do you love me?',
-  answers: [
-      {text: 'Yes', correct: true},
-      {text: 'No', correct: false},
-  }
 ]
