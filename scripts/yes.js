@@ -110,24 +110,24 @@ const questions = [
         answers: [
             {text: 'Raccoon', correct: false},
             {text: 'Bald Eagle', correct: false},
-            {text: 'Polar Bear', correct: true},
-            {text: 'Hippopotamus', correct: false}
+            {text: 'Polar Bear', correct: false},
+            {text: 'ikaw, char HAHHA', correct: true}
         ]
     },
     {
         question: 'What is my favorite color?',
         answers: [
             {text: 'Red', correct: false},
-            {text: 'Purple', correct: true},
+            {text: 'Purple', correct: false},
             {text: 'Green', correct: false},
-            {text: 'Orange', correct: false}
+            {text: 'black', correct: true}
         ]
     },
     {
         question: 'What is the best day in the gym?',
         answers: [
-            {text: 'Legs', correct: true},
-            {text: 'Arms', correct: false},
+            {text: 'Legs', correct: false},
+            {text: 'Arms', correct: true},
             {text: 'Back', correct: false},
             {text: 'Chest', correct: false}
         ]
@@ -144,10 +144,10 @@ const questions = [
     {
         question: 'What is our anniversary?',
         answers: [
-            {text: 'September 27th', correct: false},
+            {text: 'December 19', correct: true},
             {text: 'September 23rd', correct: false},
             {text: 'September 11th', correct: false},
-            {text: 'September 25th', correct: true}
+            {text: 'September 25th', correct: false}
         ]
     },
     {
@@ -156,7 +156,7 @@ const questions = [
             {text: 'Summer', correct: false},
             {text: 'Spring', correct: false},
             {text: 'Winter', correct: false},
-            {text: 'Fall', correct: true}
+            {text: 'Rainy', correct: true}
         ]
     },
     {
@@ -168,4 +168,10 @@ const questions = [
             {text: 'Your Nose', correct: true}
         ]
     },
+  {
+    question: 'Do you love me?',
+  answers: [
+      {text: 'Yes', correct: true},
+      {text: 'No', correct: false},
+  }
 ]
